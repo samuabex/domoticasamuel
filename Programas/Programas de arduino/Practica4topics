@@ -1,0 +1,5 @@
+
+const char* temperatura_topic = "casa/sensores/temperatura8";
+const char* humidade_topic = "casa/sensores/humidade8";
+const char* depuracion_topic = "depuracion8";  
+const char* rele_topic = "casa/actuadores/rele8";  
