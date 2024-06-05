@@ -3,6 +3,8 @@
 
 /home/a22samuelae/Descargas/maqueta24.jpg![maqueta24](https://github.com/samuabex/domoticasamuel/assets/171036212/6d00f58e-d10c-4e38-b0a8-4697763bb05d)
 
+![flowsP4_Samuel](https://github.com/samuabex/domoticasamuel/assets/171036212/fd8c26ce-9aa1-406d-8528-9c2f1405ad96)
+
 
 Este é o resumo do proxecto da casa domotica de TIC.
 
